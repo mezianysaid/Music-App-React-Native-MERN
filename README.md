@@ -1,3 +1,9 @@
+
+<img width="195" alt="Screenshot 2024-01-14 215521" src="https://github.com/mezianysaid/Music-App-React-Native-MERN/assets/79142324/7cff09b9-c761-427e-8d81-ea82543aa16b">
+<img width="190" alt="Screenshot 2024-01-14 215501" src="https://github.com/mezianysaid/Music-App-React-Native-MERN/assets/79142324/a21f5507-4af6-4929-853d-604dcb4bbeed">
+<img width="193" alt="Screenshot 2024-01-14 215609" src="https://github.com/mezianysaid/Music-App-React-Native-MERN/assets/79142324/fd5287d0-9130-43a0-b7fd-b2af80afea62">
+<img width="196" alt="Screenshot 2024-01-14 215544" src="https://github.com/mezianysaid/Music-App-React-Native-MERN/assets/79142324/71783a75-56b2-4539-874b-d967f768f7f4">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
